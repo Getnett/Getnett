@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I’m passionate about building impactful products, solving problems, and constantly learning to grow my skills and improve communication. I thrive on creating solutions that make a difference and enjoy every opportunity to collaborate and innovate.
 
-## 📂 Real World Project Portofilo
+## 📂 Real World Projects Portofilo
 
 ### 1️⃣ **1health Next Gen**
 
@@ -64,6 +64,26 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 - **Client Location:** UK
 - **Company:** FrontM
 - **Duration:** Jan 5 2024 - March 26 2024 - 3 months
+
+## 📂 Personal Projects
+
+### 3️⃣ **FrontM Website Development**
+
+![Personal Fiance Managment Project Screenshot](./assets/pfm.png "Personal Fiance Managment  Project")
+
+- **Description:**This application helps users track their income and expenses effectively.
+- **Role:** Frontend Developer (Next.js)
+- **Work Done:**
+
+  - Built interactive UI components for tracking expenses,incomes and setting financial goals.
+  - Created Database Schema and Migration
+  - Made api-end points for various tasks
+  - Managed CI/CD using Github actions
+  - Used AWS services (EC2 & Amplify) for deployment.
+
+- **Skills:** Vue.js,Node.js,SQL,Supabase(PostgreSQL),AWS(EC2),CI/CD(git actions).
+- **Live Site:** [🔗 https://main.doyar4u9sxfwi.amplifyapp.com/](#)
+- **Duration:** Sep 16, 2024 - present
 
 ## 🛠 Skills & Technologies
 
