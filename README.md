@@ -23,7 +23,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 - **Client:** 1health[🔗 https://www.1health.io/]
 - **Client Location:** US
 - **Company:** Panaton software [🔗 https://www.panaton.com/]
-- **Duration:** Aug 26 2021 - Jan 1 2024 . 2.5 Years
+- **Duration:** Aug 26 2021 - Jan 1 2024 **-** 2.5 Years
 
 ### 2️⃣ **Efflux**
 
@@ -45,7 +45,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 - **Client:** ROI ADS[🔗 https://roixads.com/]
 - **Client Location:** US
 - **Company:** ROI ADS
-- **Duration:** Feb 27 2024 - July 1 2024 . 4 months
+- **Duration:** Feb 27 2024 - July 1 2024 **-** 4 months
 
 ### 3️⃣ **FrontM Website Development**
 
@@ -63,7 +63,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 - **Client:** FrontM[🔗 https://frontm.com/]
 - **Client Location:** UK
 - **Company:** FrontM
-- **Duration:** Jan 5 2024 - March 26 2024 . 3 months
+- **Duration:** Jan 5 2024 - March 26 2024 **-** 3 months
 
 ### 4️⃣ **Vereitalie Resturant Management System**
 
@@ -83,7 +83,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 - **Client:** Vereitalie Resturant[🔗 https://vereitalie.it]
 - **Client Location:** Italy
 - **Company:** Med Innnovations Addis (Owned by Vereitalie Resturant owner )
-- **Duration:** Aug 1 2019 - Aug 31 2020
+- **Duration:** Aug 1 2019 - Aug 31 2020 **-** 1.1years
 
 ## 📂 Personal Projects
 
