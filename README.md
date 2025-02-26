@@ -2,17 +2,9 @@
 
 Welcome to my portfolio! I specialize in frontend development, building scalable and user-friendly web applications using modern JavaScript frameworks.
 
-## 🛠 Skills & Technologies
+## 📂 Real World Project Portofilo for various clients
 
-- **Frontend:** React.js, Vue.js, Next.js
-- **Backend:** Node.js, Express.js
-- **Database:** PostgreSQL, Supabase
-- **Styling:** Material UI, Tailwind CSS
-- **Other:** TypeScript, REST APIs, Git, AWS S3
-
-## 📂 Featured Projects
-
-### 1️⃣ **1health Next GEn**
+### 1️⃣ **1health Next Gen**
 
 ![1health Screenshot](./assets/1health-pic-p.png "1health Next Gen Project")
 
@@ -31,6 +23,7 @@ Welcome to my portfolio! I specialize in frontend development, building scalable
 - **Client:** 1health[🔗 https://www.1health.io/]
 - **Client Location:** US
 - **Company:** Panaton software [🔗 https://www.panaton.com/]
+- **Duration:** Aug 26 2021 - Jan 1 2024 - 2.5 Years
 
 ### 2️⃣ **Efflux**
 
@@ -52,10 +45,37 @@ Welcome to my portfolio! I specialize in frontend development, building scalable
 - **Client:** ROI ADS[🔗 https://roixads.com/]
 - **Client Location:** US
 - **Company:** ROI ADS
+- **Duration:** Feb 27 2024 - July 1 2024 - 4 months
+
+### 2️⃣ **FrontM Website Development**
+
+![FrontM Screenshot](./assets/Efflux-lad.png "FrontM Project")
+
+- **Description:**It is a website for their Maritime SupperApp Platform for ship-shore team communications, collaboration, engagement, and welfare..
+- **Role:** Frontend Developer (Next.js)
+- **Work Done:**
+
+  - Developed user interfaces using Next.js
+  - Connected sanity api for fetching news updates
+
+- **Skills:** Next.js,Sanity,HTML/CSS,javascript.
+- **Live Site:** [🔗 https://frontm.com/](#)
+- **Client:** FrontM[🔗 https://frontm.com/]
+- **Client Location:** US d
+- **Company:** FrontM
+- **Duration:** Jan 5 2024 - March 26 2024 - 3 months
+
+## 🛠 Skills & Technologies
+
+- **Frontend:** React.js, Vue.js, Next.js
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL, Supabase
+- **Styling:** Material UI, Tailwind CSS
+- **Other:** TypeScript, REST APIs, Git, AWS S3
 
 ## 📬 Contact Me
 
 - **LinkedIn:** [https://www.linkedin.com/in/getnet-endaylalu/](#)
-- **Email:** [Your Email](mailto:getnetendaylalu2015@gmail.com)
+- **Email:** [getnetendaylalu2015@gmail.com](mailto:getnetendaylalu2015@gmail.com)
 
 Feel free to check out my projects and reach out for collaboration! 🚀
