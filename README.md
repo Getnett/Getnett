@@ -23,7 +23,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 - **Client:** 1health[🔗 https://www.1health.io/]
 - **Client Location:** US
 - **Company:** Panaton software [🔗 https://www.panaton.com/]
-- **Duration:** Aug 26 2021 - Jan 1 2024 - 2.5 Years
+- **Duration:** Aug 26 2021 - Jan 1 2024 . 2.5 Years
 
 ### 2️⃣ **Efflux**
 
@@ -45,13 +45,13 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 - **Client:** ROI ADS[🔗 https://roixads.com/]
 - **Client Location:** US
 - **Company:** ROI ADS
-- **Duration:** Feb 27 2024 - July 1 2024 - 4 months
+- **Duration:** Feb 27 2024 - July 1 2024 . 4 months
 
 ### 3️⃣ **FrontM Website Development**
 
 ![FrontM Screenshot](./assets/frontm.png "FrontM Project")
 
-- **Description:** It is a website for their Maritime SupperApp Platform for ship-shore team communications, collaboration, engagement, and welfare..
+- **Description:** It is a website for their Maritime SupperApp Platform for ship-shore team communications, collaboration, engagement, and welfare.
 - **Role:** Frontend Developer (Next.js)
 - **Work Done:**
 
@@ -63,11 +63,31 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 - **Client:** FrontM[🔗 https://frontm.com/]
 - **Client Location:** UK
 - **Company:** FrontM
-- **Duration:** Jan 5 2024 - March 26 2024 - 3 months
+- **Duration:** Jan 5 2024 - March 26 2024 . 3 months
+
+### 4️⃣ **Vereitalie Resturant Management System**
+
+![Vereitalie Screenshot](./assets/vereitalie.png "Vereitalie Resturant Management System Project")
+
+- **Description:** This project was both vast and intricate, encompassing both Web De- velopment and Mobile Development aspects. As a versatile team member, I contributed as a developer, proficient in React and iOS technologies, and also provided valuable support as a QA (Quality Assurance) specialist.
+- **Role:** Junior Software Developer
+- **Work Done:**
+
+  - Developed user interfaces for the restaurant management system using React.js
+  - Collaborated in the creation of an iOS app designed to streamline the order-taking process within the restaurant management system, significantly improving operational efficiency
+  - Identified and reported numerous subtle issues, ensuring a bug-free application upon release
+  - Led the QA team, ensuring high standards of quality and performance across the project
+
+- **Skills:** iOs Developement,React,Javascript,QA.
+- **Live Site:** [🔗 obselte as of now](#)
+- **Client:** Vereitalie Resturant[🔗 https://vereitalie.it]
+- **Client Location:** UK
+- **Company:** Med Innnovations Addis (Owned by Vereitalie Resturant owner )
+- **Duration:** Aug 1 2019 - Aug 31 2020
 
 ## 📂 Personal Projects
 
-### 3️⃣ **Personal Fiance Managament Project**
+### 1️⃣ **Personal Fiance Managament Project with AI assistant**
 
 ![Personal Fiance Managament Project Screenshot](./assets/pfm.png "Personal Fiance Managament  Project")
 
@@ -75,11 +95,12 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 - **Role:** Fullstack developer
 - **Work Done:**
 
-  - Built interactive UI components for tracking expenses,incomes and setting financial goals.
+  - Built interactive UI components for tracking expenses,incomes and setting financial goals
   - Created Database Schema and Migration
   - Made api-end points for various tasks
+  - Integreted AI assistant chatbot
   - Managed CI/CD using Github actions
-  - Used AWS services (EC2 & Amplify) for deployment.
+  - Used AWS services (EC2 & Amplify) for deployment
 
 - **Skills:** Vue.js,Node.js,SQL,Supabase(PostgreSQL),AWS(EC2),CI/CD(git actions).
 - **Live Site:** [🔗 https://main.doyar4u9sxfwi.amplifyapp.com/](#)
