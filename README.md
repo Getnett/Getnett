@@ -51,7 +51,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 
 ![FrontM Screenshot](./assets/frontm.png "FrontM Project")
 
-- **Description:**It is a website for their Maritime SupperApp Platform for ship-shore team communications, collaboration, engagement, and welfare..
+- **Description:** It is a website for their Maritime SupperApp Platform for ship-shore team communications, collaboration, engagement, and welfare..
 - **Role:** Frontend Developer (Next.js)
 - **Work Done:**
 
@@ -67,11 +67,11 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 
 ## 📂 Personal Projects
 
-### 3️⃣ **FrontM Website Development**
+### 3️⃣ ** Personal Fiance Managament Project **
 
-![Personal Fiance Managment Project Screenshot](./assets/pfm.png "Personal Fiance Managment  Project")
+![Personal Fiance Managament Project Screenshot](./assets/pfm.png "Personal Fiance Managament  Project")
 
-- **Description:**This application helps users track their income and expenses effectively.
+- **Description:** This application helps users track their income and expenses effectively.
 - **Role:** Frontend Developer (Next.js)
 - **Work Done:**
 
