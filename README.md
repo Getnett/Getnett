@@ -1,4 +1,4 @@
-# 🚀 [Your Name] - Frontend Developer
+# 🚀 Getnet Endaylalu - Fullstack Developer
 
 Welcome to my portfolio! I specialize in frontend development, building scalable and user-friendly web applications using modern JavaScript frameworks.
 
@@ -14,7 +14,7 @@ Welcome to my portfolio! I specialize in frontend development, building scalable
 
 ### 1️⃣ **1health Next GEn**
 
-![1health Screenshot](./assets/real-estate-erp.png "1health Next Gen Project")
+![1health Screenshot](./assets/1health-pic-p.png "1health Next Gen Project")
 
 - **Description:** The project aimed to streamline testing ordering and results in an efficient manner by consolidating different stakeholders onto one platform (labs, doctors, health providers, and suppliers).
 - **Role:** React | GraphQL Developer
@@ -34,7 +34,7 @@ Welcome to my portfolio! I specialize in frontend development, building scalable
 
 ### 2️⃣ **Efflux**
 
-![Efflux Screenshot](./assets/finance-app.png "Efflux Project")
+![Efflux Screenshot](./assets/Efflux-lad.png "Efflux Project")
 
 - **Description:** A platform for tracking campaigns, launching ads, and analyzing ad spend and revenue.
 - **Role:** Fullstack Developer
