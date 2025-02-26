@@ -81,7 +81,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 - **Skills:** iOs Developement,React,Javascript,QA.
 - **Live Site:** [🔗 obselte as of now](#)
 - **Client:** Vereitalie Resturant[🔗 https://vereitalie.it]
-- **Client Location:** UK
+- **Client Location:** Italy
 - **Company:** Med Innnovations Addis (Owned by Vereitalie Resturant owner )
 - **Duration:** Aug 1 2019 - Aug 31 2020
 
