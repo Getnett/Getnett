@@ -67,12 +67,12 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 
 ## 📂 Personal Projects
 
-### 3️⃣ ** Personal Fiance Managament Project **
+### 3️⃣ **Personal Fiance Managament Project**
 
 ![Personal Fiance Managament Project Screenshot](./assets/pfm.png "Personal Fiance Managament  Project")
 
 - **Description:** This application helps users track their income and expenses effectively.
-- **Role:** Frontend Developer (Next.js)
+- **Role:** Fullstack developer
 - **Work Done:**
 
   - Built interactive UI components for tracking expenses,incomes and setting financial goals.
