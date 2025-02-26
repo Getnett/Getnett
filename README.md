@@ -1,8 +1,8 @@
 # 🚀 Getnet Endaylalu - Fullstack Developer
 
-Welcome to my portfolio! I specialize in frontend development, building scalable and user-friendly web applications using modern JavaScript frameworks.
+Welcome to my portfolio! I’m passionate about building impactful products, solving problems, and constantly learning to grow my skills and improve communication. I thrive on creating solutions that make a difference and enjoy every opportunity to collaborate and innovate.
 
-## 📂 Real World Project Portofilo for various clients
+## 📂 Real World Project Portofilo
 
 ### 1️⃣ **1health Next Gen**
 
@@ -47,9 +47,9 @@ Welcome to my portfolio! I specialize in frontend development, building scalable
 - **Company:** ROI ADS
 - **Duration:** Feb 27 2024 - July 1 2024 - 4 months
 
-### 2️⃣ **FrontM Website Development**
+### 3️⃣ **FrontM Website Development**
 
-![FrontM Screenshot](./assets/Efflux-lad.png "FrontM Project")
+![FrontM Screenshot](./assets/frontm.png "FrontM Project")
 
 - **Description:**It is a website for their Maritime SupperApp Platform for ship-shore team communications, collaboration, engagement, and welfare..
 - **Role:** Frontend Developer (Next.js)
@@ -61,7 +61,7 @@ Welcome to my portfolio! I specialize in frontend development, building scalable
 - **Skills:** Next.js,Sanity,HTML/CSS,javascript.
 - **Live Site:** [🔗 https://frontm.com/](#)
 - **Client:** FrontM[🔗 https://frontm.com/]
-- **Client Location:** US d
+- **Client Location:** UK
 - **Company:** FrontM
 - **Duration:** Jan 5 2024 - March 26 2024 - 3 months
 
