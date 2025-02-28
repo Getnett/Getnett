@@ -19,7 +19,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
   - Integrated back-end services using GraphQL and REST APIs
   - Co-developed real-time communication systems for proctoring purposes using Twilio
 - **Skills:** React.js,jQuery,TypeScript, REST APIs, Material UI
-- **Live Site:** [🔗 https://app.1health.io/](#)
+- **Live Site:** [🔗 https://app.1health.io/](https://app.1health.io/)
 - **Client:** 1health[🔗 https://www.1health.io/]
 - **Client Location:** US
 - **Company:** Panaton software [🔗 https://www.panaton.com/]
@@ -41,7 +41,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
   - Developed user interfaces using React.js
 
 - **Skills:** React.js,Node.js,AWS services, PostgreSQL.
-- **Live Site:** [🔗 https://efflux.com/](#)
+- **Live Site:** [🔗 https://efflux.com/](https://efflux.com/)
 - **Client:** ROI ADS[🔗 https://roixads.com/]
 - **Client Location:** US
 - **Company:** ROI ADS
@@ -59,7 +59,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
   - Connected sanity api for fetching news updates
 
 - **Skills:** Next.js,Sanity,HTML/CSS,javascript.
-- **Live Site:** [🔗 https://frontm.com/](#)
+- **Live Site:** [🔗 https://frontm.com/](https://frontm.com/)
 - **Client:** FrontM[🔗 https://frontm.com/]
 - **Client Location:** UK
 - **Company:** FrontM
@@ -103,7 +103,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
   - Used AWS services (EC2 & Amplify) for deployment
 
 - **Skills:** Vue.js,Node.js,SQL,Supabase(PostgreSQL),AWS(EC2),CI/CD(git actions).
-- **Live Site:** [🔗 https://main.doyar4u9sxfwi.amplifyapp.com/](#)
+- **Live Site:** [🔗 https://main.doyar4u9sxfwi.amplifyapp.com/](https://main.doyar4u9sxfwi.amplifyapp.com/)
 - **Duration:** Sep 16, 2024 - present
 
 ## 🛠 Skills & Technologies
@@ -116,7 +116,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 
 ## 📬 Contact Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/getnet-endaylalu/](#)
+- **LinkedIn:** [https://www.linkedin.com/in/getnet-endaylalu/](https://main.doyar4u9sxfwi.amplifyapp.com/)
 - **Email:** [getnetendaylalu2015@gmail.com](mailto:getnetendaylalu2015@gmail.com)
 
 Feel free to check out my projects and reach out for collaboration! 🚀
