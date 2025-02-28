@@ -42,7 +42,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 
 - **Skills:** React.js,Node.js,AWS services, PostgreSQL.
 - **Live Site:** [🔗 https://efflux.com/](https://efflux.com/)
-- **Client:** ROI ADS[🔗 https://roixads.com/]
+- **Client:** ROI ADS[🔗 http://roi.ad/]
 - **Client Location:** US
 - **Company:** ROI ADS
 - **Duration:** Feb 27 2024 - July 1 2024 **-** 4 months
