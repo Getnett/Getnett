@@ -116,7 +116,7 @@ Welcome to my portfolio! I’m passionate about building impactful products, sol
 
 ## 📬 Contact Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/getnet-endaylalu/](https://main.doyar4u9sxfwi.amplifyapp.com/)
+- **LinkedIn:** [https://www.linkedin.com/in/getnet-endaylalu/](https://www.linkedin.com/in/getnet-endaylalu/)
 - **Email:** [getnetendaylalu2015@gmail.com](mailto:getnetendaylalu2015@gmail.com)
 
 Feel free to check out my projects and reach out for collaboration! 🚀
